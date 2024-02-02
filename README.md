@@ -1,1 +1,1 @@
-# playfair-dumb-brute-force-cracker
+# playfair-cipher-cracker
